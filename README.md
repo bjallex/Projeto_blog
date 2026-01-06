@@ -109,11 +109,7 @@ Este projeto foi desenvolvido com fins **acadêmicos**, com o objetivo de pratic
 - Integração entre front-end e back-end
 - Organização de projetos para versionamento no GitHub
 
----
 
-## 👨‍💻 Autor
-
-**Raimundo Jairo da Silva Dias**  
 
 ---
 
